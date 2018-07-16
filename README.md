@@ -1,3 +1,3 @@
 # Rent Info
 
-https://mosrenthk.github.io/mos-rent
+https://mosrenthk.github.io
